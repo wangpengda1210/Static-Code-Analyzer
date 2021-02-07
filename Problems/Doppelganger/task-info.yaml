@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # the object_list has already been defined
+    # write your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7829#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 07 Feb 2021 00:41:21 UTC
+record: -1

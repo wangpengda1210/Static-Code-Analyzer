@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# create your dictionary here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7830#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 07 Feb 2021 00:45:26 UTC
+record: -1
